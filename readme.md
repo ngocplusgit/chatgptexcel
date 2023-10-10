@@ -1,4 +1,4 @@
-# ChatGPT Excel Functions
+# ChatGPT Excel
 
 A set of functions for communicating with the OpenAI ChatGPT API in Microsoft Excel and perform various taasks. This was tested under the latest version of Microsoft Excel. Adjustments may be needed to run with older versions.
 
